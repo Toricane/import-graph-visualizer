@@ -4,6 +4,8 @@ Visualizes the import graph of a Python project.
 
 ![import-graph-visualizer](example.png)
 
+![import-graph-visualizer](example2.png)
+
 ## Usage
 
 1. Install the required packages:
